@@ -3226,6 +3226,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@kitconcept/volto-solr@npm:1.0.0-alpha.2":
+  version: 1.0.0-alpha.2
+  resolution: "@kitconcept/volto-solr@npm:1.0.0-alpha.2"
+  peerDependencies:
+    "@plone/volto": ^16.20.0 || ^17.0.0-alpha.4
+  checksum: 450cfad1c884e6de84bc946ab1dbd5c79d01137fa94963c3a5ec12cf18ee25219cead4f9a0b9480085b6d25fbb82bab08fdb75b353e586451b6717f890998dcb
+  languageName: node
+  linkType: hard
+
 "@kwsites/file-exists@npm:^1.1.1":
   version: 1.1.1
   resolution: "@kwsites/file-exists@npm:1.1.1"
@@ -14234,6 +14243,7 @@ __metadata:
     "@kitconcept/volto-introduction-block": 1.0.0
     "@kitconcept/volto-light-theme": 1.0.0
     "@kitconcept/volto-separator-block": 4.0.0
+    "@kitconcept/volto-solr": 1.0.0-alpha.2
     "@plone/scripts": ^3.0.0
     "@plone/volto": 17.0.1
     "@storybook/addon-actions": ^6.3.0

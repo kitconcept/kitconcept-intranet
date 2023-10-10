@@ -35,6 +35,7 @@
     "@kitconcept/volto-highlight-block",
     "@kitconcept/volto-separator-block",
     "@kitconcept/volto-light-theme",
+    "@kitconcept/volto-solr",
     "volto-kitconcept-intranet"
   ],
   "theme": "@kitconcept/volto-light-theme",
@@ -154,6 +155,7 @@
     "@kitconcept/volto-introduction-block": "1.0.0",
     "@kitconcept/volto-light-theme": "1.0.0",
     "@kitconcept/volto-separator-block": "4.0.0",
+    "@kitconcept/volto-solr": "1.0.0-alpha.2",
     "@plone/volto": "17.0.1"
   },
   "devDependencies": {
