@@ -1,3 +1,4 @@
+import PersonResultItem from './theme/SolrSearch/PersonResultItem';
 
 const applyConfig = (config) => {
   config.settings = {
@@ -6,6 +7,9 @@ const applyConfig = (config) => {
     supportedLanguages: ['en'],
     defaultLanguage: 'en',
   };
+
+  config.views.contentTypeSearchResultViews.Person = PersonResultItem;
+
   return config;
 };
 
